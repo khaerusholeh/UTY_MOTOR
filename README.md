@@ -4,4 +4,5 @@ SALONPAS BY SI 2015
 #nama kelompok : 
 #Nanang Khaeru Sholeh (5150311071)
 #Waryuni (5150311072)
-#intan dewi mutiarahati (5150311100)
+#Intan Dewi Mutiarahati (5150311100)
+#Adib Rahmadiansyah (5150311101)
