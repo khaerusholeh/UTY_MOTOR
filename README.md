@@ -11,7 +11,7 @@ SALONPAS BY SI 2015
 
 Kelengkapan Program
 
-Program Kasir Salon ini memiliki 2 keunggulan dibanding Program Kasir lain yang dari yang sudah pernah Kami tawarkan, yaitu:
+Program Kasir Salon ini memiliki 2 keunggulan dibanding Program Kasir lain yang dari yang lain, yaitu:
 
 Program Kasir untuk Penjualan Pembelian Barang
 Program Kasir Untuk Penjualan Jasa Salon
