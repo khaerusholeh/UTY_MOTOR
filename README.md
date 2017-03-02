@@ -7,4 +7,6 @@ SALONPAS BY SI 2015
 #Intan Dewi Mutiarahati (5150311100)
 #Adib Rahmadiansyah (5150311101) 
 #Agus Kurniawan (5150311064)
+#Bagus Satrio ( 5150311094)
 hi semuanyaaaa...
+semangat yaa
