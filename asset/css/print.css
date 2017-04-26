@@ -1,0 +1,34 @@
+
+body {
+	margin 				: 0;
+	font-family 		: 'Century Gothic';
+	color 				: #6D6D6D;
+}
+
+
+table {
+    *border-collapse: collapse; /* IE7 and lower */
+    border-spacing: 0;
+    width: 95%;  
+       margin-top 		: 50px; 
+}
+
+#display th {
+	height 				: 30px;
+}
+
+#display tr {
+	height 				: 25px;
+}
+#display th,td{
+	border-top-width 	: 1px;
+	border-top-style 	: solid;
+	border-color 		: #DDDDDD;
+
+	border-spacing 		: 0px;
+}
+
+#display tbody tr:nth-child(even) {
+    background-color 	:#F8F8F8;
+      
+}

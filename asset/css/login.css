@@ -1,0 +1,42 @@
+body{
+
+	background-color 	: #E9E9E9;
+	font-family 		: 'Century Gothic';
+	color 				: #62687E;
+}
+
+#login{
+
+	height 				: 250px;
+	width 				: 400px;
+	border-color 		: #CCCCCC;
+	border-style 		: solid;
+	border-width 		: 1px;
+	margin-top 			: 80px;
+	background-color 	: #FFFFFF;
+	border-radius 		: 10px;
+}
+
+.judul{
+	border-bottom-width : 1px;
+	border-bottom-color : #CCCCCC;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-bottom-style : solid;
+	height 				: 50px;
+	width 				: 100%;
+	background-color 	: #EFEFEF;
+}
+
+.judul font{
+	margin-top 			: 15px;
+	margin-left 		: -180px;
+	position 			: absolute;
+
+}
+
+table{
+	margin-top 			: 20px;
+	margin-left 		: 40px;
+}
+
